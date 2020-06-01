@@ -1,5 +1,3 @@
-### Ana nos deixou com um problema mais interessante: quer saber o saldo dos meses com lucro!
-
 function saldoDeMesesComLucro(periodo) {
     
   let quantidade= [];
